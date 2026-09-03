@@ -51,3 +51,14 @@ I'm **Advaid P**, a Certified Data Analyst, Insight Generator, and Business Inte
 <img src="https://img.shields.io/badge/Python-Short_Term_Internship-blue?style=for-the-badge&logo=python&logoColor=white&color=000000" alt="Python Short-Term Internship" />
 
 </div>
+-----
+<h2 id="Projects" align=''> Projects </h2>
+
+
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 3](https://github.com/)**    | Short Description | 
+
+---
