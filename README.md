@@ -58,7 +58,5 @@ I'm **Advaid P**, a Certified Data Analyst, Insight Generator, and Business Inte
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Coffee Hub Project](https://github.com/advaid07/Python/blob/main/Python%20Project/Coffee%20Hub.py)**    | The Coffee Hub Project is a Python-based application designed to simulate the operations of a coffee shop. It focuses on implementing core programming concepts such as data structures, functions, and user interaction while solving a real-world problem. |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
