@@ -57,6 +57,8 @@ I'm **Advaid P**, a Certified Data Analyst, Insight Generator, and Business Inte
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Coffee Hub Project](https://github.com/advaid07/Python/blob/main/Python%20Project/Coffee%20Hub.py)**    | The Coffee Hub Project is a Python-based application designed to simulate the operations of a coffee shop. It focuses on implementing core programming concepts such as data structures, functions, and user interaction while solving a real-world problem. |
+| **[Coffee Hub Project](https://github.com/advaid07/Python/tree/main/Python%20Project)**    | The Coffee Hub Project is a Python-based application designed to simulate the operations of a coffee shop. It focuses on implementing core programming concepts such as data structures, functions, and user interaction while solving a real-world problem. |
+| **[Crop Recommendation System](https://github.com/advaid07/Machine-Learning/tree/main/Machine%20Learning/Crop_Recomand)**    | A beginner-friendly machine learning project that predicts the most suitable crop to cultivate based on soil and environmental attributes |
+| **[Car Price Prediction](https://github.com/advaid07/Machine-Learning/tree/main/Machine%20Learning/Car%20Price)**    | A regression-based machine learning project that predicts the market resale value of a used car based on its specifications and condition | 
 
 ---
